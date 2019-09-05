@@ -1,2 +1,2 @@
 # snapster
-Takes screenshots of a website based on its sitemap
+Take screenshots of a website based on its sitemap
